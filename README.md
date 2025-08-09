@@ -21,8 +21,6 @@
 
 ### DevOps & Tools
 - **Version Control** (Git, GitHub)
-- **Containerization** (Docker)
-- **CI/CD** (GitHub Actions)
 - **Cloud Services** (AWS Basics, Vercel)
 - **Package Managers** (npm, yarn, pip)
 
@@ -42,14 +40,6 @@
 - **Offline-first architecture** storing user inputs in local MySQL with automatic cloud sync  
 - **Reliable MQTT pipeline** with FastAPI middleware for guaranteed server delivery  
 
-### Tech Stack
-```mermaid
-graph LR
-  A[User Browser] -- WebSocket --> B[FastAPI]
-  B -- MQTT --> C[Cloud Server]
-  A --> D[(Local MySQL)]
-  B --> D
-  C --> E[(Cloud MySQL)]
 
 ## 🏆 Achievements
 - Reduced API response time by 40% through query optimization
