@@ -57,7 +57,3 @@
 - Portfolio: [Your Website](#)
 - Email: vishwhakarthi@gmail.com
 
-## 🎯 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
