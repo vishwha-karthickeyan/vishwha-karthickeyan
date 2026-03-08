@@ -54,6 +54,6 @@
 
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/vishwha-karthickeyan
-- Portfolio: vishwha-portfolio.vercel.app
+- Portfolio: https://vishwha-portfolio.vercel.app/
 - Email: vishwhakarthi@gmail.com
 
