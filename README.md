@@ -1,6 +1,6 @@
 # Hi, I'm Vishwha Karthickeyan M 👋
 
-🚀 Full-Stack Developer with 11 months of hands-on experience building web applications using React ,React Native and FastAPI. Passionate about creating efficient, scalable, and user-friendly solutions.
+🚀 Full-Stack Developer with 1 year and 6 months of hands-on experience building web applications using React ,React Native and FastAPI. Passionate about creating efficient, scalable, and user-friendly solutions.
 
 ## 🛠️ Technologies & Skills
 
@@ -53,7 +53,7 @@
 - AWS Serverless Technologies
 
 ## 📫 Let's Connect
-- LinkedIn: [Your Profile](#)
+- LinkedIn: https://www.linkedin.com/in/vishwha-karthickeyan
 - Portfolio: [Your Website](#)
 - Email: vishwhakarthi@gmail.com
 
